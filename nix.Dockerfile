@@ -1,4 +1,4 @@
-FROM nixos/nix:2.29.0
+FROM nixos/nix:latest
 
 WORKDIR /workspace
 
